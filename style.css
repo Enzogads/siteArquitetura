@@ -1,6 +1,33 @@
+/* CSS HEX */
+
+/*
+--red-pantone: #e63946ff;
+--honeydew: #f1faeeff;
+--non-photo-blue: #a8dadcff;
+--cerulean: #457b9dff;
+--berkeley-blue: #1d3557ff;
+https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
+*/
+
+
+body{
+    background-color: #f1faeeff;
+    color: #1d3557ff;
+}
+
 img{
     width: 300px;
-    border: 4px solid black;
+    border: 4px solid #1d3557ff;
     border-radius: 10px;
 
+}
+
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
 }
