@@ -9,19 +9,53 @@
 https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
 */
 
+/*ScriptTopicos
+
+<h1></h1>
+
+<img src="" alt="">
+          
+<h3>O que é?</h3>
+        
+<p> <a href=""></a>Fonte</p>
+          
+<h3>Pra que serve?</h3>           
+        
+<p> <a href=""></a>Fonte</p>
+       
+<h3>Curiosidades</h3>
+       
+<p> <a href=""></a>Fonte</p>
+
+
+*/
+
 
 body{
     background-color: #f1faeeff;
     color: #1d3557ff;
 }
 
-img{
+/* img  {
+    
+} */
+
+.img-com-borda{
     width: 300px;
     border: 4px solid #1d3557ff;
     border-radius: 10px;
-
+    
 }
 
+.img-sem-borda{
+    width: 195px;
+    /* border: 4px solid #1d3557ff; */
+    border-radius: 10px;
+
+}
+.BolaPulando{
+    width: 24px;
+}
 h1{
     color: black;
 }
