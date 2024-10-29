@@ -16,6 +16,8 @@ th{
 table{
     background-color: rgb(168, 216, 255);
     width: 100%;
+    border-radius: 6px;
+    padding: 4px;
 }
 body{
     background-color: #f1faeeff;
